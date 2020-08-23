@@ -21,3 +21,5 @@ Feitos pelo João Pedro "Belluominus" Belluomini, eu hehe. Abaixo estão o que e
 <br>
 - [x] **`should be able to add new repository`**
 - [x] **`should be able to remove repository`**
+
+![yanr test](https://github.com/Belluominus/Conceitos_do_ReactJS/blob/master/readMeFiles/yarnTest.png)
